@@ -1,0 +1,2624 @@
+fileFormatVersion: 2
+guid: fcf4b9cbd44983740a50867066ae017d
+timeCreated: 1486847295
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Twitch-Emotes_0
+    21300002: Twitch-Emotes_1
+    21300004: Twitch-Emotes_2
+    21300006: Twitch-Emotes_3
+    21300008: Twitch-Emotes_4
+    21300010: Twitch-Emotes_5
+    21300012: Twitch-Emotes_6
+    21300014: Twitch-Emotes_7
+    21300016: Twitch-Emotes_8
+    21300018: Twitch-Emotes_9
+    21300020: Twitch-Emotes_10
+    21300022: Twitch-Emotes_11
+    21300024: Twitch-Emotes_12
+    21300026: Twitch-Emotes_13
+    21300028: Twitch-Emotes_14
+    21300030: Twitch-Emotes_15
+    21300032: Twitch-Emotes_16
+    21300034: Twitch-Emotes_17
+    21300036: Twitch-Emotes_18
+    21300038: Twitch-Emotes_19
+    21300040: Twitch-Emotes_20
+    21300042: Twitch-Emotes_21
+    21300044: Twitch-Emotes_22
+    21300046: Twitch-Emotes_23
+    21300048: Twitch-Emotes_24
+    21300050: Twitch-Emotes_25
+    21300052: Twitch-Emotes_26
+    21300054: Twitch-Emotes_27
+    21300056: Twitch-Emotes_28
+    21300058: Twitch-Emotes_29
+    21300060: Twitch-Emotes_30
+    21300062: Twitch-Emotes_31
+    21300064: Twitch-Emotes_32
+    21300066: Twitch-Emotes_33
+    21300068: Twitch-Emotes_34
+    21300070: Twitch-Emotes_35
+    21300072: Twitch-Emotes_36
+    21300074: Twitch-Emotes_37
+    21300076: Twitch-Emotes_38
+    21300078: Twitch-Emotes_39
+    21300080: Twitch-Emotes_40
+    21300082: Twitch-Emotes_41
+    21300084: Twitch-Emotes_42
+    21300086: Twitch-Emotes_43
+    21300088: Twitch-Emotes_44
+    21300090: Twitch-Emotes_45
+    21300092: Twitch-Emotes_46
+    21300094: Twitch-Emotes_47
+    21300096: Twitch-Emotes_48
+    21300098: Twitch-Emotes_49
+    21300100: Twitch-Emotes_50
+    21300102: Twitch-Emotes_51
+    21300104: Twitch-Emotes_52
+    21300106: Twitch-Emotes_53
+    21300108: Twitch-Emotes_54
+    21300110: Twitch-Emotes_55
+    21300112: Twitch-Emotes_56
+    21300114: Twitch-Emotes_57
+    21300116: Twitch-Emotes_58
+    21300118: Twitch-Emotes_59
+    21300120: Twitch-Emotes_60
+    21300122: Twitch-Emotes_61
+    21300124: Twitch-Emotes_62
+    21300126: Twitch-Emotes_63
+    21300128: Twitch-Emotes_64
+    21300130: Twitch-Emotes_65
+    21300132: Twitch-Emotes_66
+    21300134: Twitch-Emotes_67
+    21300136: Twitch-Emotes_68
+    21300138: Twitch-Emotes_69
+    21300140: Twitch-Emotes_70
+    21300142: Twitch-Emotes_71
+    21300144: Twitch-Emotes_72
+    21300146: Twitch-Emotes_73
+    21300148: Twitch-Emotes_74
+    21300150: Twitch-Emotes_75
+    21300152: Twitch-Emotes_76
+    21300154: Twitch-Emotes_77
+    21300156: Twitch-Emotes_78
+    21300158: Twitch-Emotes_79
+    21300160: Twitch-Emotes_80
+    21300162: Twitch-Emotes_81
+    21300164: Twitch-Emotes_82
+    21300166: Twitch-Emotes_83
+    21300168: Twitch-Emotes_84
+    21300170: Twitch-Emotes_85
+    21300172: Twitch-Emotes_86
+    21300174: Twitch-Emotes_87
+    21300176: Twitch-Emotes_88
+    21300178: Twitch-Emotes_89
+    21300180: Twitch-Emotes_90
+    21300182: Twitch-Emotes_91
+    21300184: Twitch-Emotes_92
+    21300186: Twitch-Emotes_93
+    21300188: Twitch-Emotes_94
+    21300190: Twitch-Emotes_95
+    21300192: Twitch-Emotes_96
+    21300194: Twitch-Emotes_97
+    21300196: Twitch-Emotes_98
+    21300198: Twitch-Emotes_99
+    21300200: Twitch-Emotes_100
+    21300202: Twitch-Emotes_101
+    21300204: Twitch-Emotes_102
+    21300206: Twitch-Emotes_103
+    21300208: Twitch-Emotes_104
+    21300210: Twitch-Emotes_105
+    21300212: Twitch-Emotes_106
+    21300214: Twitch-Emotes_107
+    21300216: Twitch-Emotes_108
+    21300218: Twitch-Emotes_109
+    21300220: Twitch-Emotes_110
+    21300222: Twitch-Emotes_111
+    21300224: Twitch-Emotes_112
+    21300226: Twitch-Emotes_113
+    21300228: Twitch-Emotes_114
+    21300230: Twitch-Emotes_115
+    21300232: Twitch-Emotes_116
+    21300234: Twitch-Emotes_117
+    21300236: Twitch-Emotes_118
+    21300238: Twitch-Emotes_119
+    21300240: Twitch-Emotes_120
+    21300242: Twitch-Emotes_121
+    21300244: Twitch-Emotes_122
+    21300246: Twitch-Emotes_123
+    21300248: Twitch-Emotes_124
+    21300250: Twitch-Emotes_125
+    21300252: Twitch-Emotes_126
+    21300254: Twitch-Emotes_127
+    21300256: Twitch-Emotes_128
+    21300258: Twitch-Emotes_129
+    21300260: Twitch-Emotes_130
+    21300262: Twitch-Emotes_131
+    21300264: Twitch-Emotes_132
+    21300266: Twitch-Emotes_133
+    21300268: Twitch-Emotes_134
+    21300270: Twitch-Emotes_135
+    21300272: Twitch-Emotes_136
+    21300274: Twitch-Emotes_137
+    21300276: Twitch-Emotes_138
+    21300278: Twitch-Emotes_139
+    21300280: Twitch-Emotes_140
+    21300282: Twitch-Emotes_141
+    21300284: Twitch-Emotes_142
+    21300286: Twitch-Emotes_143
+    21300288: Twitch-Emotes_144
+    21300290: Twitch-Emotes_145
+    21300292: Twitch-Emotes_146
+    21300294: Twitch-Emotes_147
+    21300296: Twitch-Emotes_148
+    21300298: Twitch-Emotes_149
+    21300300: Twitch-Emotes_150
+    21300302: Twitch-Emotes_151
+    21300304: Twitch-Emotes_152
+    21300306: Twitch-Emotes_153
+    21300308: Twitch-Emotes_154
+    21300310: Twitch-Emotes_155
+    21300312: Twitch-Emotes_156
+    21300314: Twitch-Emotes_157
+    21300316: Twitch-Emotes_158
+    21300318: Twitch-Emotes_159
+    21300320: Twitch-Emotes_160
+    21300322: Twitch-Emotes_161
+    21300324: Twitch-Emotes_162
+    21300326: Twitch-Emotes_163
+    21300328: Twitch-Emotes_164
+    21300330: Twitch-Emotes_165
+    21300332: Twitch-Emotes_166
+    21300334: Twitch-Emotes_167
+    21300336: Twitch-Emotes_168
+    21300338: Twitch-Emotes_169
+    21300340: Twitch-Emotes_170
+    21300342: Twitch-Emotes_171
+    21300344: Twitch-Emotes_172
+    21300346: Twitch-Emotes_173
+    21300348: Twitch-Emotes_174
+    21300350: Twitch-Emotes_175
+    21300352: Twitch-Emotes_176
+    21300354: Twitch-Emotes_177
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: tvOS
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Tizen
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Samsung TV
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Twitch-Emotes_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 577
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 577
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_2
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 577
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_3
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 577
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_4
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 577
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_5
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 577
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_6
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 566
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_7
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 566
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_8
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 567
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_9
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 566
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_10
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 566
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_11
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 564
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 539
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_13
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 539
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_14
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 539
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_15
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 539
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_16
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 539
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_17
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 539
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_18
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 528
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_19
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 528
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_20
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 528
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_21
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 529
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_22
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 528
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_23
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 529
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_24
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 501
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_25
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 501
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_26
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 496
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_27
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 496
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_28
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 496
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_29
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 496
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_30
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 490
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_31
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 490
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_32
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 491
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_33
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 490
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_34
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 490
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_35
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 490
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_36
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 458
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_37
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 456
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_38
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 458
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_39
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 458
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_40
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 458
+        width: 40
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_41
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 458
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_42
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 453
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_43
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 453
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_44
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 453
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_45
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 453
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_46
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 453
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_47
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 453
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_48
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 420
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_49
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 418
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_50
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 420
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_51
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 419
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_52
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 420
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_53
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 420
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_54
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 415
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_55
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 417
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_56
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 415
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_57
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 416
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_58
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 415
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_59
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 415
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_60
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 384
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_61
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 384
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_62
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 382
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_63
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 382
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_64
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 380
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_65
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 381
+        width: 41
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_66
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 379
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_67
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 376
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_68
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 377
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_69
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 377
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_70
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 377
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_71
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 380
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_72
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 344
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_73
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 344
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_74
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 344
+        width: 38
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_75
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 340
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_76
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 343
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_77
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 343
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_78
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 339
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_79
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 339
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_80
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 339
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_81
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 347
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_82
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 340
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_83
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 340
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_84
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 340
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_85
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 340
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_86
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 340
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_87
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 340
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_88
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 340
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_89
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 306
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_90
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 306
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_91
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 306
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_92
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 304
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_93
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 306
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_94
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 306
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_95
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 304
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_96
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 304
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_97
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 305
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_98
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 304
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_99
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 304
+        width: 13
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_100
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 304
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_101
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 268
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_102
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 270
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_103
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 269
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_104
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 269
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_105
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 269
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_106
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 268
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_107
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 266
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_108
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 266
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_109
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 266
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_110
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 266
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_111
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 267
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_112
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 267
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_113
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 230
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_114
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 230
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_115
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 230
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_116
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 230
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_117
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 234
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_118
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 232
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_119
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 230
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_120
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 228
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_121
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 228
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_122
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 228
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_123
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 229
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_124
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 228
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_125
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 193
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_126
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 193
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_127
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 192
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_128
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 192
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_129
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 192
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_130
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 193
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_131
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 190
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_132
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 190
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_133
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 190
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_134
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 190
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_135
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 190
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_136
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 194
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_137
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 154
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_138
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 154
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_139
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 154
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_140
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 154
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_141
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 154
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_142
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 154
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_143
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 152
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_144
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 152
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_145
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 152
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_146
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 152
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_147
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 152
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_148
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 152
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_149
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 120
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_150
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 121
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_151
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 120
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_152
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 116
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_153
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 116
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_154
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 116
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_155
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 112
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_156
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 114
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_157
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 114
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_158
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 117
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_159
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 117
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_160
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 119
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_161
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 79
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_162
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 79
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_163
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 79
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_164
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 79
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_165
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 79
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_166
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 79
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_167
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 76
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_168
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 76
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_169
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 76
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_170
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 76
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_171
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 76
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_172
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 76
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_173
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 41
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_174
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 42
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_175
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 41
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_176
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 43
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Twitch-Emotes_177
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 41
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
